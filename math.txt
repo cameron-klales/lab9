@@ -1,0 +1,27 @@
+If log10x = 3, then x =
+*) 3 raised to the 10   *) 1,000        *) 30           *) 10/3 *) 3/10
+    1,000
+
+2.75 + .003 + .158 =
+*) 4.36 *) 2.911        *) 0.436        *) 2.938
+        2.911
+
+If a = 10, then which of the following represents 8,003 ?
+*) 8a + 3       *) 80a + 3      *) 8a^2 + 3     *) 8a^3 + 3     *) 8a^4 + 3
+        8a^3 + 3
+
+A bag contains 4 red jelly beans, 5 green jelly beans, and 3 white jelly beans. If a jelly bean is selected at random from the bag, what is the probability that the jelly bean selected is green?
+*) 1/12 *) 1/5  *) 5/23 *) 5/12 *) 5/7
+        5/12
+
+A truck sprang a leak at the bottom of its radiator, which held 480 ounces of fluid when it started to leak, and started losing radiator fluid at a constant rate of 4 ounces per minute. Suppose that the radiator continued to leak at this constant rate and that the truck, traveling at 35 miles per hour, could continue traveling at this rate until its radiator was completely empty. In how many miles would the radiator be empty?
+*) 13.7 *) 17.5 *) 35.0 *) 70.0 *) 120.0
+        70.0
+
+You have enough material to build a fence 40 meters long. If you use it all to enclose a square region, how many square meters will you enclose?
+*) 160  *) 100  *) 80   *) 40   *) 20
+        100
+
+One neon sign flashes every 6 seconds. Another neon sign flashes every 8 seconds. If they flash together and you begin counting seconds, how many seconds after they flash together will they next flash together?
+*) 48   *) 24   *) 14   *) 7    *) 2
+        24
